@@ -20,3 +20,6 @@ Enter token and webhook (for token stealer)
 Enjoy!  
 
 USE AT YOUR OWN RISK!!!! This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes.
+![Screenshot 2024-04-10 182804](https://github.com/Skillissuesez/Xoroc-Selfbot/assets/166662811/9f41901b-54db-48ba-ab8b-c9a56d4448f3)  
+![Screenshot 2024-04-10 182952](https://github.com/Skillissuesez/Xoroc-Selfbot/assets/166662811/7015dfd9-24f8-441b-8b6a-1a2fba81419f)  
+
