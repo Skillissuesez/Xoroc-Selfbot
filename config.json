@@ -1,0 +1,6 @@
+{
+	"Login": "OPTIONAL-USERNAME"
+	"Token": "YOUR-TOKEN-HERE"
+	"Webhook": "YOUR-WEBHOOK-HERE"
+	"Proxy": "T-OR-F"
+}
